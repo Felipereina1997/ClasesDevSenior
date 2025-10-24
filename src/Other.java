@@ -24,6 +24,9 @@ public class Other {
     public static void main(String[] args) {
         
         System.out.println("Holita");
-        System.out.println("Esto es nuevo de cerrar y abrir por X tiempo");
+        System.out.println("Esto es nuevo luego de cerrar y abrir por X tiempo el proyecto");
+        /*Merge como se le dice en ingles es la fusion de ramas que
+        consiste en llevar ese features a mi rama principal */
+        System.out.println("Esto de aqui es codigo que estara en mi nueva rama feature/felipe-reina");
     }
 }
